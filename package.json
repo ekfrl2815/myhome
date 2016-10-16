@@ -1,0 +1,22 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekfrl2815/myhome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekfrl2815/myhome/issues"
+  },
+  "homepage": "https://github.com/ekfrl2815/myhome#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
